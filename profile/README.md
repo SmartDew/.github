@@ -1,4 +1,12 @@
-## Hi there 👋
+The SmartDew is an open-source garden project designed out of Florida International University's College of Engineering and Computing. 
+
+This repo will contain instructions for creating your own SmartDew using parts you can order online. Think of the SmartDew as bigger leaves for your plants. It collects dew and rainwater, which lets you better irrigate your garden. 
+
+The SmartDew also acts as a weather station, and users will be able to visit http://smartdewonline.site to create an account and see weather data for their garden from any web browser.
+
+The product is currently in prototyping, with further instructions coming soon.
+
+Happy gardening! ☔
 
 <!--
 
