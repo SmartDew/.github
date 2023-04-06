@@ -4,6 +4,8 @@ This repo will contain instructions for creating your own SmartDew using parts y
 
 The SmartDew also acts as a weather station, and users will be able to visit http://smartdewonline.site to create an account and see weather data for their garden from any web browser.
 
+To connect the ESP82366 to a Windows machine, you may need to install the USB drivers here: https://www.silabs.com/documents/public/software/CP210x_Universal_Windows_Driver.zip
+
 The product is currently in prototyping, with further instructions coming soon.
 
 Happy gardening! ☔
